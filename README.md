@@ -11,6 +11,3 @@ The <b>Warrior</b> focuses on <b>raw damage</b>, ending the battle quickly with 
 The <b>Archer</b> is a more technical character, using its skills to <b>blind the opponents</b>.           
 
 <img src="https://media.giphy.com/media/0TSdaKPg3os1ql289i/giphy.gif">                
-
-<b>############The .exe is availabre in the project###############</b>           
-https://github.com/Morisonbob/ASCII-RPG/blob/master/ASCII%20RPG.exe
